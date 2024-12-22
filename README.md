@@ -3,14 +3,19 @@
 A new Flutter project.
 
 ## Getting Started
+aplikasi ini menggunakan flutter
 
-This project is a starting point for a Flutter application.
+cara menjalankan:
 
-A few resources to get you started if this is your first Flutter project:
+clone folder dari github: https://github.com/djagadgoo/UTS_PEMROGRAMANBERGERAK.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+extract file nya
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+open file menggunakan vscode dengan memilih folder yang telah di extract
+
+buka terminal dan jalankan:
+  flutter pub get ( untuk menambahkan plugin nya)
+  
+selanjutnya tinggal jalankan : flutter run ( disarankan menggunakan ponsel)
+
+terima kasih
